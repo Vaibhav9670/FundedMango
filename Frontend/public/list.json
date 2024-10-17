@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name":"Wealth Building Strategy Session",
+        "price":"₹179.00",
+        "category":"Paid",
+        "image":"https://static.wixstatic.com/media/8df0ce_db8ed485231b4044a8fe50d84258f7d0~mv2.png/v1/fill/w_202,h_269,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8df0ce_db8ed485231b4044a8fe50d84258f7d0~mv2.png"
+    },
+    {
+        "id":2,
+        "name":"One on One Investment Consultation",
+        "price":"₹199.00",
+        "category":"Paid",
+        "image":"https://static.wixstatic.com/media/8df0ce_98d9948bd2334e9d834c88b81140b18f~mv2.png/v1/fill/w_222,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8df0ce_98d9948bd2334e9d834c88b81140b18f~mv2.png"
+    },
+    {
+        "id":3,
+        "name":"Financial Literacy Ebook",
+        "price":"₹49.00",
+        "category":"Paid",
+        "image":"https://static.wixstatic.com/media/8df0ce_25eeb387ba5349539c1c1d2090b62cda~mv2.png/v1/fill/w_222,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8df0ce_25eeb387ba5349539c1c1d2090b62cda~mv2.png"
+    },
+    {
+        "id":4,
+        "name":"Trading Signals Subscription",
+        "price":"₹79.00",
+        "category":"Paid",
+        "image":"https://static.wixstatic.com/media/8df0ce_087c462f0296411cb57bf84eddf2e836~mv2.png/v1/fill/w_222,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8df0ce_087c462f0296411cb57bf84eddf2e836~mv2.png"
+    },
+    {
+        "id":5,
+        "name":"Investment Basics Course",
+        "price":"₹99.00",
+        "category":"Paid",
+        "image":"https://static.wixstatic.com/media/8df0ce_0478b1bdb877446d81f47adc02aa81d8~mv2.png/v1/fill/w_222,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8df0ce_0478b1bdb877446d81f47adc02aa81d8~mv2.png"
+    },
+    {
+        "id":6,
+        "name":"Investment Portfolio Review",
+        "price":"₹149.00",
+        "category":"Paid",
+        "image":"https://static.wixstatic.com/media/8df0ce_67c1db5824b041f7bcdc9d8bca77e4ff~mv2.png/v1/fill/w_222,h_296,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/8df0ce_67c1db5824b041f7bcdc9d8bca77e4ff~mv2.png"
+    }
+]
