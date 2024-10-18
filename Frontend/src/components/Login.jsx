@@ -20,7 +20,7 @@ const Login = () => {
             _id:data._id
         };
        await axios
-       .post("http://82.112.230.22:4173/login", userInfo)
+       .post("http://82.112.230.22:4173/user/login", userInfo)
        .then((res)=>{
        
             if(res.data){
