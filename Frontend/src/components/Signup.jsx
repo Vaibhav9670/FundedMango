@@ -24,7 +24,7 @@ function Signup() {
             password:data.password,
         };
        await axios
-       .post("http://localhost:4002/user/signup", userInfo)
+       .post("http://82.112.230.22:4173/user/signup", userInfo)
        .then((res)=>{
         
             if(res.data){
